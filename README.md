@@ -9,6 +9,7 @@
 > **DistillHub** —— 让数字永生、个人思维操作系统和 Agent 群聊编排真正落地。  
 > **万物皆可 skill**，与其等着被别人蒸，不如先蒸自己！
 
+
 [![Stars](https://img.shields.io/github/stars/codeman008/awesome-distillhub-persona-skills?style=social)](https://github.com/codeman008/awesome-distillhub-persona-skills)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -219,3 +220,13 @@
 欢迎 PR 补充 **DistillHub 专属 Skill**！  
 优先收录已在 DistillHub 客户端测试通过的 .skill 文件。  
 Fork → 修改表格 → 提交 PR，标题带 `feat: 新增 XXX Skill（DistillHub 支持）`
+
+## 📢 项目声明
+
+**本项目所有内容均来源于网上公开资料的整理与汇总**，并借助大模型（LLM）进行归类、总结和结构化处理。
+
+- 本项目**未继承、未fork、未复制**任何特定项目的代码、文档或完整内容；
+- 所有素材均来自互联网公开可获取的信息，不涉及任何私有、付费或受版权保护的专有资料；
+- 项目中可能出现的任何雷同内容，纯属因公开资料本身高度相似所致，并非有意抄袭或继承。
+
+本项目仅供学习、研究和交流使用，不做任何商业用途。项目作者不对内容的准确性、完整性及合法性承担任何法律责任。
