@@ -29,7 +29,7 @@
 ---
 
 ## 📋 DistillHub目录（2026.04更新）
-
+- [skill商店整理](#skill商店整理)
 - [1. DistillHub核心元工具与蒸馏器](#1-distillhub-核心元工具与蒸馏器)
 - [2. 职场与团队协作](#2-职场与团队协作)
 - [3. 情感·关系·记忆](#3-情感关系记忆)
@@ -42,7 +42,23 @@
 - [DistillHub 生态工具箱](#distillhub-生态工具箱)
 
 ---
+## skill商店整理
+本表旨在为开发者及 AI 工程师提供高质量的技能（Skills/Actions/Connectors）资源索引，内容来源涵盖大厂生态、开发者社区及优质开源项目。
+这些平台代表了当前工业界将 AI 接入业务系统的最高标准，是研究 API Schema 和交互协议的核心来源。
 
+| 技能商店/平台 | 归属方 | 主要应用场景 | 工程化参考价值 |
+| :--- | :--- | :--- | :--- |
+| **[Copilot Studio Connectors](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio)** | Microsoft | 企业级业务自动化、CRM、ERP | 标准化连接器规范 (API Schema) |
+| **[GPTs Store (Actions)](https://openai.com/gpt-store)** | OpenAI | 垂直领域智能助手、插件扩展 | 自然语言接口定义 (Action JSON) |
+| **[Vertex AI Agent Builder](https://cloud.google.com/vertex-ai/agent-builder)** | Google | 企业知识库检索、搜索集成 | 模块化技能封装、高可用链路 |
+| **[Agentforce Directory](https://www.salesforce.com/agentforce/)** | Salesforce | 销售自动化、客服、CRM逻辑 | 业务合规性处理、安全逻辑 |
+| **[Zapier AI Actions](https://zapier.com/ai-actions)** | Zapier Inc. | 全生态工具联动 (6000+应用) | 高并发下的接口调度范式 |
+| **[GitHub MCP Registry](https://github.com/modelcontextprotocol/servers)** | Anthropic 及社区 | 本地 AI 协议标准化 | 跨平台本地工具集成 |
+| **[Refly](https://refly.ai/)** | Refly.ai 团队 | 无代码构建、企业级治理 | 团队工作流、企业 S.O.P |
+| **[Skills.sh](https://skills.sh/)** | Vercel Labs | CLI 即用、跨框架兼容 | 开发者 CLI 工作流 |
+| **[SkillsMP](https://skillsmp.com/)** | 社区聚合项目 | 20万+ 海量资源、语义搜索 | 全栈开发、多工具联动 |
+| **[Skillstore.io](https://skillstore.io/)** | AISkillStore 社区 | 自动化安全审计、高质量精选 | 高合规行业 |
+| **[SkillsLM](https://skillslm.com/)** | 独立开发者社区 | 结构化教程、系统化学习 | AI Agent 初学者入门 |
 ## 1. DistillHub 核心元工具与蒸馏器
 它让你把「自己」变成可编程的思维模块，同时提供创建、进化、保护其他 Skill 的元能力。  
 无论你是想打造第二个自己、实现数字永生，还是想安全地蒸馏他人思维，这里都是起点。  
