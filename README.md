@@ -142,7 +142,7 @@
 | 郭德纲.skill               | [https://github.com/Xxx00xxX33/guodegang-skills](https://github.com/Xxx00xxX33/guodegang-skills) | 表达结构、处世判断与职业方法 |
 | liangxi-skills             | [https://github.com/Xxx00xxX33/liangxi-skills](https://github.com/Xxx00xxX33/liangxi-skills) | 结构判断、风险习惯与中文交易表达 |
 | 毛选.skill                 | [https://github.com/Xxx00xxX33/maoxuan-skill](https://github.com/Xxx00xxX33/maoxuan-skill) | 矛盾分析、根据地思维与战略判断框架 |
-| 新青年.Skill               | [https://github.com/SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) | 把《毛选》157篇文章蒸馏成可执行的现实分析 skill |
+| 新青年.Skill               | [https://github.com/Xxx00xxX33/xinqingnian-maoxuan-skill](https://github.com/Xxx00xxX33/xinqingnian-maoxuan-skill) | 把《毛选》157篇文章蒸馏成可执行的现实分析 skill |
 | 张雪峰.skill               | [https://github.com/Xxx00xxX33/zhangxuefeng-skill](https://github.com/Xxx00xxX33/zhangxuefeng-skill) | 升学、考试与职业规划的实战框架 |
 | zizek-skill                | [https://github.com/Xxx00xxX33/zizek-skill](https://github.com/Xxx00xxX33/zizek-skill) | 前提追问、欲望追踪与矛盾揭示方法 |
 | 求是 Skill                 | [https://github.com/Xxx00xxX33/qiushi-skill](https://github.com/Xxx00xxX33/qiushi-skill) | 从教员思想中提炼实事求是、调查研究与战略判断工具 |
